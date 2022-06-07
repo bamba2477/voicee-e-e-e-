@@ -1,0 +1,22 @@
+body{
+    background-color:#3fa0bd ;
+font-family: 'Raleway', sans-serif;
+}
+.header_div{
+    background-color: rgb(14, 211, 57);
+    color: rgb(226, 159, 159);
+    }
+    .header_div p{
+        font-family: 'Raleway', sans-serif;
+        letter-spacing: 2px;
+        color: rgb(164, 168, 126);
+        font-weight: bold;
+        font-size: 15px;
+    }
+    .main_div button{
+        font-family: 'Raleway', sans-serif;
+        margin-top: 35px;
+         width: 130px;
+         font-weight: bolder;
+         letter-spacing: 3px;
+        
